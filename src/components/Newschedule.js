@@ -7,7 +7,12 @@ function Newschedule() {
         <span className='headings fs-5'>Create a new schedule</span>
         <div class="mb-3">
             <label className="form-label">Activity</label>
-            <input type="text" className="form-control" placeholder="enter activity"/>
+            <select className='form-select'>
+                <option>Yoga</option>
+                <option>Push ups</option>
+                <option>Squats</option>
+                <option>Meditation</option>
+            </select>
         </div>
         <div class="mb-3">
             <label className="form-label">Time</label>
