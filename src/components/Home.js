@@ -51,6 +51,7 @@ function Home() {
                         <th scope="col">Time</th>
                         <th scope="col">activity</th>
                         <th scope="col">duration</th>
+                        <th scope="col">action</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -60,6 +61,7 @@ function Home() {
                             <td>{item.time}</td>
                             <td>{item.activity}</td>
                             <td>{item.duration}</td>
+                            <td><button className="btn btn-sm btn-danger">Delete</button></td>
                         </tr>
                     ))}
                 </tbody>
