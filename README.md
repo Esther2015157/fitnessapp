@@ -50,5 +50,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ### Deployment
 Live link 
 https://github.com/Esther2015157/fitnessapp.git
+esther2015157.github.io/fitnessapp
 
 # fitnessapp
+Author Esther Muthoni
