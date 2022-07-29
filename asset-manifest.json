@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fitnessapp/static/css/main.a529d3f7.css",
+    "main.js": "/fitnessapp/static/js/main.612629f5.js",
+    "index.html": "/fitnessapp/index.html",
+    "main.a529d3f7.css.map": "/fitnessapp/static/css/main.a529d3f7.css.map",
+    "main.612629f5.js.map": "/fitnessapp/static/js/main.612629f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a529d3f7.css",
+    "static/js/main.612629f5.js"
+  ]
+}
