@@ -1,6 +1,14 @@
-import React from 'react'
+import React, { useState, useEffect } from "react";
 
 function Home() {
+
+    const [items, setItems] = useState([]);
+
+    useEffect(() => {
+        fetch("http://localhost:8000/schedule")
+          .then((r) => r.json())
+          .then((item) => setItems(item));
+      }, []);
   return (
     <div>
       <span className='headings'>Dashboard</span>
@@ -46,24 +54,14 @@ function Home() {
                     </tr>
                 </thead>
                 <tbody>
-                    <tr>
-                    <th scope="row">1</th>
-                        <td>08.00am</td>
-                        <td>running</td>
-                        <td>2</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">2</th>
-                        <td>01.00pm</td>
-                        <td>Yoga</td>
-                        <td>1</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">2</th>
-                        <td>10.00pm</td>
-                        <td>Squat</td>
-                        <td>0.5</td>
-                    </tr>
+                    {items.map((item) => (
+                        <tr>
+                        <th scope="row">{item.id}</th>
+                            <td>{item.time}</td>
+                            <td>{item.activity}</td>
+                            <td>{item.duration}</td>
+                        </tr>
+                    ))}
                 </tbody>
             </table>
         </div>

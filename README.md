@@ -1,10 +1,14 @@
-# Getting Started with Create React App
+# Fitness App
+Description
+Fitness app is a web base application to help  you keep fit and healthy. These apps can be downloaded on mobile phones quite easily. The aim of these app is to make your lifestyle healthier by tracking your  workout pattern.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-In the project directory, you can run:
+Javascript
+HTML and CSS
+db json server
+
 
 ### `npm start`
 

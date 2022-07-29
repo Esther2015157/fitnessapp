@@ -38,3 +38,10 @@ code {
   box-sizing: border-box;
   display: inline-block;
 }
+.activity-list{
+  border-radius: 4px;
+  margin: auto;
+  height: 80vh;
+  overflow: hidden;
+  overflow: scroll;
+}

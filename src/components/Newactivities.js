@@ -10,7 +10,7 @@ function Newactivities() {
             <input type="text" className="form-control" placeholder="enter activity"/>
         </div>
         <div class="mb-3">
-            <label className="form-label">Descrition</label>
+            <label className="form-label">Description</label>
             <textarea className="form-control"></textarea>
         </div>
         <div class="mb-3">
