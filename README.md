@@ -6,7 +6,7 @@ Fitness app is a web base application to help  you keep fit and healthy. These a
 ## Available Scripts
 
 Javascript
-HTML and CSS
+HTML 
 db json server
 
 
