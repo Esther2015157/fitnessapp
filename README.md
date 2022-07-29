@@ -1,6 +1,6 @@
 # Fitness App
 Description
-Fitness app is a web base application to help  you keep fit and healthy. These apps can be downloaded on mobile phones quite easily. The aim of these app is to make your lifestyle healthier by tracking your  workout pattern.
+Fitness app is a web base application to help  you keep fit and healthy. These app can be downloaded on mobile phones quite easily. The aim of these app is to make your lifestyle healthier by tracking your  workout pattern.
 
 
 ## Available Scripts
