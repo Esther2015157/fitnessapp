@@ -14,7 +14,7 @@ function Newactivities() {
             <textarea className="form-control"></textarea>
         </div>
         <div className="mb-3">
-            <input type="submit" className="form-control btn btn-sm btn-dark"/>
+        <input type="submit" className="form-control btn btn-sm btn-dark"/>git a
         </div>
       </form>
     </div>
