@@ -39,18 +39,13 @@
       "status": "pending"
     },
     {
-      "activity": "",
+      "activity": "meditation",
       "time": "12:00 pm",
       "duration": "2",
       "status": "",
       "id": 4
-    },
-    {
-      "activity": "",
-      "time": "12:00 pm",
-      "duration": "2",
-      "status": "Done",
-      "id": 5
     }
+
+    
   ]
 }
