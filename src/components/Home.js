@@ -22,21 +22,27 @@ function Home() {
                         <th scope="col">Workout</th>
                         <th scope="col">Total Hours</th>
                     </tr>
+                    
                 </thead>
                 <tbody>
                     <tr>
                         <th scope="row">1</th>
                         <td>Yoga</td>
-                        <td>20</td>
+                        <td>2</td>
                     </tr>
                     <tr>
                         <th scope="row">2</th>
                         <td>Push ups</td>
-                        <td>6</td>
+                        <td>1</td>
                     </tr>
                     <tr>
                         <th scope="row">3</th>
                         <td>Squats</td>
+                        <td>2</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">4</th>
+                        <td>Meditation</td>
                         <td>5</td>
                     </tr>
                 </tbody>

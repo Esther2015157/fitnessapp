@@ -43,7 +43,7 @@ function Newschedule() {
                 <option>Yoga</option>
                 <option>Push ups</option>
                 <option>Squats</option>
-                <option>Meditation</option>
+                <option>Meditation</option> 
             </select>
         </div>
         <div className="mb-3">
