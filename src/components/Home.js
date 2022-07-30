@@ -48,7 +48,7 @@ function Home() {
                 </tbody>
             </table>
         </div>
-        <div className='home-card m-1 shadow-sm p-3 mb-5 bg-white rounded'>
+        <div className='home-card m-1 shadow-sm p-3 mb-5 bg-white  rounded'>
             <span className='headings fs-5'>Scheduled activities</span>
             <table className='table mt-3'>
                 <thead>
